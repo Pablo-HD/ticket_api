@@ -1,0 +1,31 @@
+{
+  "tickets": [
+    {
+      "id": "aecc1bed-9325-4b3e-873e-bbd052f34c4f",
+      "equipment": "Impressora",
+      "description": "Não Liga!",
+      "user_name": "Pablo",
+      "status": "open",
+      "created_at": "4/28/2025, 12:47:35 AM",
+      "updated_at": "4/28/2025, 12:47:35 AM"
+    },
+    {
+      "id": "147598d6-0e08-45ae-9377-4c63bfe0c219",
+      "equipment": "Impressora",
+      "description": "Não Liga!",
+      "user_name": "Pablo",
+      "status": "open",
+      "created_at": "4/28/2025, 12:47:59 AM",
+      "updated_at": "4/28/2025, 12:47:59 AM"
+    },
+    {
+      "id": "9425efb5-92c1-43b3-a725-25c3af551a12",
+      "equipment": "Impressora",
+      "description": "Não Liga!",
+      "user_name": "Pablo",
+      "status": "open",
+      "created_at": "4/28/2025, 12:48:11 AM",
+      "updated_at": "4/28/2025, 12:48:11 AM"
+    }
+  ]
+}
